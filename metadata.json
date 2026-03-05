@@ -1,0 +1,5 @@
+{
+  "name": "SRT Searcher",
+  "description": "A database for searching through subtitle files (.srt) with ease.",
+  "requestFramePermissions": []
+}
